@@ -1,4 +1,6 @@
-A simple CRUD-API for a Next13 notes-app implemented using JSON-server. A live version of the API is hosted [here](https://next13-notes-app-api-production.up.railway.app/).
+A simple CRUD-API for a Next13 notes-app implemented using JSON-server. 
+
+A live version of the API is hosted [here](https://next13-notes-app-api-production.up.railway.app/).
 
 ## Getting started
 
