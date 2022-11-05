@@ -4,7 +4,7 @@
   "description": "A simple JSON-server based API for a CRUD notes-app created with Next13",
   "main": "server.js",
   "scripts": {
-    "start": "json-server --watch db.json"
+    "start": "node ./server.js"
   },
   "author": "Patrick Obermeier",
   "private": true,
